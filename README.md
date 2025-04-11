@@ -25,7 +25,7 @@ Lets take a look inside the `src` folder
   `npm install`
 - In the root directory create a .env file and add the following env variables
 
-      ```PORT=<port number of your choice>```
+      PORT=<port number of your choice>
 
   ex:
 
